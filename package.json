@@ -1,7 +1,6 @@
 {
-  "name": "Omnivor",
+  "name": "graphqlquth",
   "version": "0.0.4",
-  "description": "Omnivor v4",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js --ignore client"
